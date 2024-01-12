@@ -4,4 +4,4 @@
 - Angela
 
 ## Description
-- In class, we covered how to create components, import and export them, as well as using useState# exercise-2
+- In class, we covered how to create components, import and export them, as well as using useState
